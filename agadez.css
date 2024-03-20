@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(216, 133, 74);
+}
+h1{
+    text-align: center;
+}
+h2{
+    margin-left: 90px;
+}
+div{
+    display: flex;
+    margin-left: 50px;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+}
+iframe{
+    width: 400px;
+    margin: 50px;
+    margin-top: 10px;
+    margin-top: 50px;
+}
+p{
+    margin-left: 30px;
+    font-size: 20px;
+}

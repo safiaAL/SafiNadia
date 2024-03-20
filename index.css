@@ -1,0 +1,49 @@
+body{
+    background-image: url(https://blogvoyageur.com/wp-content/uploads/2019/10/voyage-en-europe.jpg);
+    background-size: cover;
+}
+main{
+    display: flex;
+    margin-top: 100px;
+}
+header{
+    color: white;
+    font-size: 50px;
+}
+a{
+    display: inline-block;
+    color: black;
+    size: 40px;
+    margin-left: 20px;
+}
+a:hover{
+    color: blue;
+}
+table{
+    margin-left: 80px;
+    margin-top: 50px;
+    border-color: #746aa8;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 9px;
+    border-collapse: collapse;
+    font-size: 30px;
+}
+img{
+     width: 400px;
+     height: 400px;
+}
+h1{
+    color: black;
+    margin-left: 1300px;
+    font-style: italic;
+    font-size: 80px;
+}
+footer{
+    color:black;
+    text-align: center;
+    font-size: 70px;
+    font-style: italic;
+    margin-top: 600px;
+}
+
